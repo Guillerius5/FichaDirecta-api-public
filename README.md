@@ -23,3 +23,5 @@ src/main/java/com/fichaDirecta/api/
 ├── domain/            # Modelos de negocio puros (Sin dependencias externas)
 ├── application/       # Puertos (Interfaces) y Casos de Uso (Lógica de negocio)
 └── infrastructure/    # Adaptadores (JPA, Cloudinary, Web Controllers, Seguridad)
+
+© 2026 FichaDirecta - El fútbol base, digitalizado.
