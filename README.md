@@ -3,6 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-Deployed-000000?style=for-the-badge&logo=railway&logoColor=white)
+
 **FichaDirecta** es la plataforma definitiva para la digitalización del fútbol base. Este repositorio contiene el API Core, encargado de gestionar la inteligencia de negocio, la persistencia de datos y el procesamiento multimedia de los jugadores.
 ---
 ## ✨ Características Principales
